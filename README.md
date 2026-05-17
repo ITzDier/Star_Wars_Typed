@@ -18,8 +18,6 @@ This project was developed as part of the **Front-End Development** course.
 
 ![Starships Preview](docs/imgs/image.png)
 
-*(Optional / Opcional: Replace this image with a screenshot of your local project later.)*
-
 ---
 
 ## ✨ Features & Learning Outcomes / Características y Aprendizajes
